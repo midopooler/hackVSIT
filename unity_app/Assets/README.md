@@ -16,11 +16,6 @@ Module 4
 <ul><li>Improving the code.</li>
 <li>Fixing the audio ascents and video quality.</li></ul>
 
-## Timeline
-![Product Development (1)](https://user-images.githubusercontent.com/17250246/54740098-59088980-4be0-11e9-8127-be75ef67318b.png)
-
-## Demo Video
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/f1uDxAk.png)](https://www.youtube.com/watch?v=GxSMJD4t7dk)
 
 
 ## Future enhancement
